@@ -11,27 +11,55 @@ AI/Backend & Computer Vision 엔지니어.
 
 ---
 
-## 🛠 Skills
-**Languages & Core**  
-Python · Java · JavaScript · TypeScript(선택) · C/C++ · C# · SQL
+## 🛠️ 기술 스택 (Tech Stack)
+<div align="center">
 
-**AI/ML & CV**  
-PyTorch · TensorFlow · OpenCV · Machine Learning · 알고리즘
+### Backend  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
 
-**Backend & API**  
-FastAPI · Node.js · REST API · OAuth/JWT · Async I/O
+### Frontend  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
 
-**DB & Data**  
-PostgreSQL · MySQL · OracleDB · MongoDB · Pandas · NumPy
+### Database  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 
-**Frontend & App**  
-React · React Native(Expo) · Vue.js
+### AI  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge) 
+![R--CNN](https://img.shields.io/badge/R--CNN-FF3B30?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-9E9E9E?style=for-the-badge)
+![VectorDB_(pgvector)](https://img.shields.io/badge/Vector%20DB%20(pgvector)-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 
-**Cloud & DevOps**  
-Microsoft Azure · Docker/Compose · GitHub Actions · n8n(자동화)
+### Cloud & DevOps  
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
-> 한눈 스킬 태그:  
-> Pandas · TensorFlow · Java · JavaScript · NumPy · React · React Native · OracleDB · MongoDB · PostgreSQL · C# · FastAPI · MySQL · Python · MachineLearning · Microsoft Azure · C++ · Node.js · Vue.js · OpenCV · 알고리즘 · IoT · PyTorch · REST API
+### Etc.  
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
+
+</div>
 
 ---
 
