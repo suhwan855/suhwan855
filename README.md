@@ -120,9 +120,11 @@ YOLOv11로 여드름/홍조를 감지하고, FastAPI 백엔드와 RN 앱을 통�
 ### Microsoft AI School (2025.02.27 ~ 2025.09.01)
 - Python 알고리즘/OOP 실습, OracleDB·MongoDB CRUD
 - 웹 크롤링·HTTP 통신, XML/JSON 전처리·파이프라인 설계
-- Flask REST API + React, **Azure 배포/운영**
+- Flask REST API + React, Azure 배포/운영
 - 지도/비지도/강화 · CNN/RNN/GAN 원리 및 기초 통계 분석
 - 요구사항 → 데이터 → 학습 → 시각화까지 팀 프로젝트 전 과정 경험
+- 📚 학습 기록/실습 코드: [GitHub — AI School Study Log](https://github.com/suhwan855/Microsoft-Azure) <!-- ← 레포 주소로 교체 -->
+
 
 ### 대림대학교 — 센서 기반 마우스 대체 장치 (2024.03 ~ 2024.06)
 - **S**: 자이로/휨 센서 노이즈·지연, 통신 불안정
