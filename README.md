@@ -84,7 +84,6 @@ YOLOv11로 여드름/홍조를 감지하고, FastAPI 백엔드와 RN 앱을 통�
 - **성과**: 실시간 분석 속도 ~40%↑, 소병변 인식률 개선, 통합 프로토타입 완성
 
 ## 2) CSSLibraryMaster
-
 분산된 CSS/Tailwind 스니펫을 수집·정제하여 검색 · 미리보기 · 설명까지 제공하는 플랫폼.
 
 **Links**
@@ -98,45 +97,34 @@ YOLOv11로 여드름/홍조를 감지하고, FastAPI 백엔드와 RN 앱을 통�
 -- 미리보기: React Iframe srcdoc 샌드박스, Tailwind 자동 감지/주입, auto-height, 코드/미리보기 토글·전체 확장
 -- 모델 전환: Ollama 로컬 LLM → GPT-4o 전환(설명/리팩터링 신뢰도↑, 비용은 캐싱으로 관리)
 
-## 🧑‍💼 Experience / Activities / Education
-### 넥스트 디앤에이 — 미국 AGV 시운전 (2024.07 ~ 2024.10)
-- **S**: 교대 팀 환경에서 센서 오작동·도킹 불량
-- **T**: 자율주행/도킹 안정화 & 협업 체계 구축
-- **A**: Lidar 감도 조정, QR 위치 최적화, 문서화·실시간 피드백 운영
-- **R**: 도킹 오차율 **20%↓**, 비정상 정지 **30%↓**
+##3) Mental Risk Survey (청소년 정신건강 위험 설문 ML 데모)
+PHQ-9A / GAD-7 / K10 / ASQ 기반 설문 데이터를 활용해 우울·불안·자살 위험도를 예측하고, 결과를 API/시각화로 제공하는 정신건강 위험 평가 데모 서비스.
 
-### 넥스트 디앤에이 — 동원 공장 AGV (2024.10 ~ 2025.02)
-- **S**: 마그네틱 라인 주행 오류·도킹 정밀도 저하
-- **T**: 주행 안정성 확보, 정밀도 향상, 안전관리 강화
-- **A**: 센서 감도/라인 보수, 도킹 위치 재조정, 장애 대응 문서화, 인수인계 체계 구축
-- **R**: 도킹 정밀도 **25%↑**, 비정상 정지 **35%↓**
+**Links**
+-- GitHub: TODO (레포 생성 후 링크 추가)
+-- Notion: TODO (노션 페이지 생성 후 링크 추가)
 
-### Microsoft AI School — AI-SkinView (2025.07 ~ 2025.08)
-- **S**: 조명/피부톤 편차·소병변 인식률 부족, AI–앱–챗봇 통합 필요
-- **T**: 경량 CNN, FastAPI–React Native 연동, 시각화/연동 설계
-- **A**: CLAHE/White Balance, YOLOv11 최적화, RN 시각화, FastAPI 연동
-- **R**: 실시간 분석 **~40%↑**, 인식률 개선, 통합 프로토타입 완성
+**Highlights**
+-- 설문 점수 구조를 반영한 합성 데이터 생성(상관관계 기반 샘플링 + sigmoid 라벨링)으로 학습 데이터 구축
+-- Logistic Regression / RandomForest / XGBoost 학습 후 앙상블 & 확률 보정(Calibration) 적용
+-- FastAPI 기반 /predict 단일 엔드포인트 + 위험도 등급(banding) 반환 구조 구현
+-- 지역·연도별 위험률 데이터 저장/갱신 → 위험도 지도 시각화 화면과 연동
+-- 성과: ML 학습–평가(AUC/PR-AUC)–API 파이프라인 구축
 
-### Microsoft AI School (2025.02.27 ~ 2025.09.01)
-- Python 알고리즘/OOP 실습, OracleDB·MongoDB CRUD
-- 웹 크롤링·HTTP 통신, XML/JSON 전처리·파이프라인 설계
-- Flask REST API + React, Azure 배포/운영
-- 지도/비지도/강화 · CNN/RNN/GAN 원리 및 기초 통계 분석
-- 요구사항 → 데이터 → 학습 → 시각화까지 팀 프로젝트 전 과정 경험
-- 📚 학습 기록/실습 코드: [GitHub — AI School Study Log](https://github.com/suhwan855/Microsoft-Azure) <!-- ← 레포 주소로 교체 -->
+## 4) Microsoft AI School (2025.02.27 ~ 2025.09.01)
+Python/DB/웹/ML/DL을 요구사항 → 데이터 → 모델 → 서비스 흐름으로 학습한 실습 중심 AI·백엔드 교육 과정.
 
+**Links**
+-- Study Log: https://github.com/suhwan855/Microsoft-Azure
 
-### 대림대학교 — 센서 기반 마우스 대체 장치 (2024.03 ~ 2024.06)
-- **S**: 자이로/휨 센서 노이즈·지연, 통신 불안정
-- **T**: 커서 정확도 개선, 통신 안정화
-- **A**: 이동평균·오프셋 보정, Python 모듈화/예외 처리, 문서화
-- **R**: 정확도·반응속도 개선, 안정적 HW–SW 통합 구현
+**Highlights**
+-- Python 알고리즘/OOP 실습으로 문제 분해·구현 기본기 강화
+-- OracleDB·MongoDB CRUD/정규화/집계 쿼리 실습으로 RDB–NoSQL 설계 경험 확보
+-- 웹 크롤링 → XML/JSON 전처리 → 저장까지 데이터 파이프라인 설계 경험
+-- Flask/FastAPI REST API + React 연동으로 서비스 구조 구현 및 배포 실습
+-- 지도/비지도/강화학습, CNN/RNN/GAN 핵심 원리 학습 및 모델 평가·시각화
+-- 팀 프로젝트에서 요구사항 정의 → 모델 설계/학습 → 결과 해석 → 데모 서비스화 전 과정 경험
 
-### 코멘토 — 백엔드 체험(스프링 게시판) (2023.10 ~ 2023.11)
-- MVC 계층 분리, CRUD·댓글·목록/상세 구현, MySQL 연동  
-- **R**: Spring MVC 기반 웹앱 완성, 서버–클라이언트 통신 이해
-
----
 
 ## 🧑‍🤝‍🧑 Soft Skills
 - 팀 갈등 조율·협업(해외/현장): **의사소통·핸드오버**로 일정/품질 유지  
@@ -147,5 +135,5 @@ YOLOv11로 여드름/홍조를 감지하고, FastAPI 백엔드와 RN 앱을 통�
 
 ## 🔗 Contact
 - GitHub: https://github.com/suhwan855  
-- Email: you@example.com
+- Email:ytn011103@naver.com
 
