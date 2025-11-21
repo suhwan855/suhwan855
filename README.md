@@ -74,7 +74,7 @@ YOLOv11로 여드름/홍조를 감지하고, FastAPI 백엔드와 RN 앱을 통�
 **Links**  
 - App: https://github.com/suhwan855/ai-skinview-app  
 - API: https://github.com/suhwan855/ai-skinview-api  
-- **Notion**: https://www.notion.so/AI-SkinView-29ec5608e7a780b0add0fb5773a99cd6
+- **Notion**: https://aware-plane-6e6.notion.site/AI-SkinView-29ec5608e7a780b0add0fb5773a99cd6
 
 
 **Highlights**
@@ -89,7 +89,7 @@ YOLOv11로 여드름/홍조를 감지하고, FastAPI 백엔드와 RN 앱을 통�
 **Links**
 - Web: https://github.com/suhwan855/csslibrarymaster
 - Backend: https://github.com/suhwan855/csslibrarymaster-backend
-- Notion: https://notion.so/csslibrarymaster
+- Notion: https://aware-plane-6e6.notion.site/CSSMasterLibrary-2a7c5608e7a780d08b22cc8e1afb59b9
 
 **Highlights**
 -- 크롤링/정제: Selenium/BeautifulSoup, 라이선스/출처/등록일 파싱, 엔티티 복원, 중복 통합
@@ -102,7 +102,7 @@ PHQ-9A / GAD-7 / K10 / ASQ 기반 설문 데이터를 활용해 우울·불안·
 
 **Links**
 -- GitHub: TODO (레포 생성 후 링크 추가)
--- Notion: TODO (노션 페이지 생성 후 링크 추가)
+-- Notion: https://aware-plane-6e6.notion.site/ML-2b2c5608e7a780c3b58bc0d14178581b
 
 **Highlights**
 -- 설문 점수 구조를 반영한 합성 데이터 생성(상관관계 기반 샘플링 + sigmoid 라벨링)으로 학습 데이터 구축
