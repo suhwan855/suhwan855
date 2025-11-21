@@ -101,7 +101,7 @@ YOLOv11로 여드름/홍조를 감지하고, FastAPI 백엔드와 RN 앱을 통�
 PHQ-9A / GAD-7 / K10 / ASQ 기반 설문 데이터를 활용해 우울·불안·자살 위험도를 예측하고, 결과를 API/시각화로 제공하는 정신건강 위험 평가 데모 서비스.
 
 **Links**
--- GitHub: TODO (레포 생성 후 링크 추가)
+-- GitHub: https://github.com/suhwan855/machine-learning-project
 -- Notion: https://aware-plane-6e6.notion.site/ML-2b2c5608e7a780c3b58bc0d14178581b
 
 **Highlights**
