@@ -72,8 +72,7 @@ Python 기반 AI/ML 엔지니어입니다.
 YOLOv11로 여드름/홍조를 감지하고, FastAPI 백엔드와 RN 앱을 통해 **실시간 분석 → 기록 → 비교 → 추천**까지 연결한 모바일 스킨케어 어드바이저.
 
 **Links**  
-- App: https://github.com/suhwan855/ai-skinview-app  
-- API: https://github.com/suhwan855/ai-skinview-api  
+- **Git**: https://github.com/suhwan855/ai-skinview-app   
 - **Notion**: https://aware-plane-6e6.notion.site/AI-SkinView-29ec5608e7a780b0add0fb5773a99cd6
 
 
@@ -87,8 +86,7 @@ YOLOv11로 여드름/홍조를 감지하고, FastAPI 백엔드와 RN 앱을 통�
 분산된 CSS/Tailwind 스니펫을 수집·정제하여 검색 · 미리보기 · 설명까지 제공하는 플랫폼.
 
 **Links**
-- Web: https://github.com/suhwan855/csslibrarymaster
-- Backend: https://github.com/suhwan855/csslibrarymaster-backend
+-**Git**:
 - Notion: https://aware-plane-6e6.notion.site/CSSMasterLibrary-2a7c5608e7a780d08b22cc8e1afb59b9
 
 **Highlights**
