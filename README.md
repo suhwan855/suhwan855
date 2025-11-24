@@ -95,7 +95,7 @@ YOLOv11로 여드름/홍조를 감지하고, FastAPI 백엔드와 RN 앱을 통�
 - 미리보기: React Iframe srcdoc 샌드박스, Tailwind 자동 감지/주입, auto-height, 코드/미리보기 토글·전체 확장
 - 모델 전환: Ollama 로컬 LLM → GPT-4o 전환(설명/리팩터링 신뢰도↑, 비용은 캐싱으로 관리)
 
-##3) Mental Risk Survey (청소년 정신건강 위험 설문 ML 데모)
+## 3) Mental Risk Survey (청소년 정신건강 위험 설문 ML 데모)
 PHQ-9A / GAD-7 / K10 / ASQ 기반 설문 데이터를 활용해 우울·불안·자살 위험도를 예측하고, 결과를 API/시각화로 제공하는 정신건강 위험 평가 데모 서비스.
 
 **Links**
