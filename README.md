@@ -90,38 +90,39 @@ YOLOv11로 여드름/홍조를 감지하고, FastAPI 백엔드와 RN 앱을 통�
 - **Notion**: https://aware-plane-6e6.notion.site/CSSMasterLibrary-2a7c5608e7a780d08b22cc8e1afb59b9
 
 **Highlights**
--- 크롤링/정제: Selenium/BeautifulSoup, 라이선스/출처/등록일 파싱, 엔티티 복원, 중복 통합
--- RAG: 코드+메타 임베딩, pgvector 하이브리드 검색(키워드+벡터), 후보 랭킹/캐싱
--- 미리보기: React Iframe srcdoc 샌드박스, Tailwind 자동 감지/주입, auto-height, 코드/미리보기 토글·전체 확장
--- 모델 전환: Ollama 로컬 LLM → GPT-4o 전환(설명/리팩터링 신뢰도↑, 비용은 캐싱으로 관리)
+- 크롤링/정제: Selenium/BeautifulSoup, 라이선스/출처/등록일 파싱, 엔티티 복원, 중복 통합
+- RAG: 코드+메타 임베딩, pgvector 하이브리드 검색(키워드+벡터), 후보 랭킹/캐싱
+- 미리보기: React Iframe srcdoc 샌드박스, Tailwind 자동 감지/주입, auto-height, 코드/미리보기 토글·전체 확장
+- 모델 전환: Ollama 로컬 LLM → GPT-4o 전환(설명/리팩터링 신뢰도↑, 비용은 캐싱으로 관리)
 
 ##3) Mental Risk Survey (청소년 정신건강 위험 설문 ML 데모)
 PHQ-9A / GAD-7 / K10 / ASQ 기반 설문 데이터를 활용해 우울·불안·자살 위험도를 예측하고, 결과를 API/시각화로 제공하는 정신건강 위험 평가 데모 서비스.
 
 **Links**
--- GitHub: https://github.com/suhwan855/machine-learning-project
--- Notion: https://aware-plane-6e6.notion.site/ML-2b2c5608e7a780c3b58bc0d14178581b
+- GitHub: https://github.com/suhwan855/machine-learning-project
+- Notion: https://aware-plane-6e6.notion.site/ML-2b2c5608e7a780c3b58bc0d14178581b
 
 **Highlights**
--- 설문 점수 구조를 반영한 합성 데이터 생성(상관관계 기반 샘플링 + sigmoid 라벨링)으로 학습 데이터 구축
--- Logistic Regression / RandomForest / XGBoost 학습 후 앙상블 & 확률 보정(Calibration) 적용
--- FastAPI 기반 /predict 단일 엔드포인트 + 위험도 등급(banding) 반환 구조 구현
--- 지역·연도별 위험률 데이터 저장/갱신 → 위험도 지도 시각화 화면과 연동
--- 성과: ML 학습–평가(AUC/PR-AUC)–API 파이프라인 구축
+- 설문 점수 구조를 반영한 합성 데이터 생성(상관관계 기반 샘플링 + sigmoid 라벨링)으로 학습 데이터 구축
+- Logistic Regression / RandomForest / XGBoost 학습 후 앙상블 & 확률 보정(Calibration) 적용
+- FastAPI 기반 /predict 단일 엔드포인트 + 위험도 등급(banding) 반환 구조 구현
+- 지역·연도별 위험률 데이터 저장/갱신 → 위험도 지도 시각화 화면과 연동
+- 성과: ML 학습–평가(AUC/PR-AUC)–API 파이프라인 구축
+
 
 ## 4) Microsoft AI School (2025.02.27 ~ 2025.09.01)
 Python/DB/웹/ML/DL을 요구사항 → 데이터 → 모델 → 서비스 흐름으로 학습한 실습 중심 AI·백엔드 교육 과정.
 
 **Links**
--- Study Log: https://github.com/suhwan855/Microsoft-Azure
+- Study Log: https://github.com/suhwan855/Microsoft-Azure
 
 **Highlights**
--- Python 알고리즘/OOP 실습으로 문제 분해·구현 기본기 강화
--- OracleDB·MongoDB CRUD/정규화/집계 쿼리 실습으로 RDB–NoSQL 설계 경험 확보
--- 웹 크롤링 → XML/JSON 전처리 → 저장까지 데이터 파이프라인 설계 경험
--- Flask/FastAPI REST API + React 연동으로 서비스 구조 구현 및 배포 실습
--- 지도/비지도/강화학습, CNN/RNN/GAN 핵심 원리 학습 및 모델 평가·시각화
--- 팀 프로젝트에서 요구사항 정의 → 모델 설계/학습 → 결과 해석 → 데모 서비스화 전 과정 경험
+- Python 알고리즘/OOP 실습으로 문제 분해·구현 기본기 강화
+- OracleDB·MongoDB CRUD/정규화/집계 쿼리 실습으로 RDB–NoSQL 설계 경험 확보
+- 웹 크롤링 → XML/JSON 전처리 → 저장까지 데이터 파이프라인 설계 경험
+- Flask/FastAPI REST API + React 연동으로 서비스 구조 구현 및 배포 실습
+- 지도/비지도/강화학습, CNN/RNN/GAN 핵심 원리 학습 및 모델 평가·시각화
+- 팀 프로젝트에서 요구사항 정의 → 모델 설계/학습 → 결과 해석 → 데모 서비스화 전 과정 경험
 
 
 ## 🧑‍🤝‍🧑 Soft Skills
